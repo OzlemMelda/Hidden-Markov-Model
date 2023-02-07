@@ -1,6 +1,6 @@
 # HMM
 ## Sequential Text Classification
-Classifying IMDB reviews as positive and negative using HMMs
+Classifying IMDB reviews as positive and negative using HMMs from scratch
 
 *folder structure
 - Project3
